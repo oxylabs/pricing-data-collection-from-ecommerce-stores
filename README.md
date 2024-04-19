@@ -1,5 +1,7 @@
 # Pricing Data Collection from E-Commerce Stores
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+
 During the webinar on “Driving E-Commerce Success Through Pricing Data: Are You Getting It Right?”, our Engineering Manager, Povilas Kudriavcevas, showcased how to collect product pricing data from https://books.toscrape.com, using Oxylabs [<u>Web Crawler</u>](https://oxylabs.io/features/web-crawler) and [<u>Web Scraper API</u>](https://oxylabs.io/products/scraper-api/web). In this repository, you will find the Apache Airflow DAGs he used during the webinar. 
 
 ## Apache Airflow setup
