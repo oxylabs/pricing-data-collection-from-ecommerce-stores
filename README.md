@@ -10,8 +10,6 @@
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
-[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
-
 During the webinar on “Driving E-Commerce Success Through Pricing Data: Are You Getting It Right?”, our Engineering Manager, Povilas Kudriavcevas, showcased how to collect product pricing data from https://books.toscrape.com, using Oxylabs [<u>Web Crawler</u>](https://oxylabs.io/features/web-crawler) and [<u>Web Scraper API</u>](https://oxylabs.io/products/scraper-api/web). In this repository, you will find the Apache Airflow DAGs he used during the webinar. 
 
 ## Apache Airflow setup
